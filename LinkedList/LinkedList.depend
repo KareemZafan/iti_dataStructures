@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677684224 source:/home/kareem/Desktop/LinkedList/main.cpp
+	<iostream>
+	"headers/linked_list.h"
+
+1677684141 /home/kareem/Desktop/LinkedList/headers/linked_list.h
+	"node.h"
+
+1677661322 /home/kareem/Desktop/LinkedList/headers/node.h
+
